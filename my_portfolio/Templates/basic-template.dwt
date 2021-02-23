@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>For the Love of Dance</title>
+<!-- TemplateEndEditable -->
+<link href="../assets/styles.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.typekit.net/pdn4hxq.css">
+<link rel="stylesheet" href="https://use.typekit.net/pdn4hxq.css">
+<link rel="stylesheet" href="https://use.typekit.net/pdn4hxq.css">
+<!-- TemplateBeginEditable name="head" -->
+
+<style type="text/css">
+	
+</style>
+
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<div id="container">
+  <header></header>
+
+  <nav>
+	<ul>
+		<li><a href="../pages/about.html">About</a></li>
+		<li><a href="../pages/blog.html">Blog</a></li>
+		<li><a href="../gallery.htmll">Gallery</a></li>
+		<li><a href="../pages/contact.html">Contact</a></li>
+		
+	</ul>
+</nav>
+  <!--Begin Floated Elements-->
+  <aside>
+    <h3>I am an Indian-American teenage girl who loves dance, especially Bollywood dance. I've been part of my Bollywood dance group for almost 4 years, and they're honestly my second family.</h3>
+    <h3>By: Vidhi Shah</h3> 
+	</aside>
+  
+	<!-- TemplateBeginEditable name="main-content" -->
+	<main>
+	  <h1>Page Title</h1>
+    </main>
+	<!-- TemplateEndEditable -->	<!--End Floated Elements-->
+  <footer>Content for New footer Tag Goes Here</footer>
+</div>
+</body>
+</html>
